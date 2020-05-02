@@ -1,0 +1,108 @@
+body{
+	background-color:#525252;
+}
+.loginBox{
+	background-color:#CFCFCF;
+	width:220px;
+	padding:20px;
+	margin:auto;
+	margin-top:200px;
+	border-radius:10px;
+}
+tr{
+	border:1px solid black;
+	
+}
+button{
+	background-color:#696969;
+	padding:10px;
+	color:white;
+	border: 1px solid #696969;
+}
+button:hover{
+	background-color:#A6A6A6;
+}
+div.header{
+	background-color:#363636;
+	color:white;
+	padding:20px;
+	
+}
+h1{
+	text-align:center;
+	
+}
+a{
+	text-decoration:none;
+}
+div.container{
+	background-color:#CFCFCF;
+	margin:20px;
+	padding:20px;
+}
+div.box{
+	width:200px;
+	background-color:#363636;
+	margin:20px;
+	color:white;
+	text-align:center;
+	font-size:20px;
+	padding:10px;
+	border-radius:10px;
+	float:left;
+	transition:4s;
+}
+div.box:hover{
+	font-weight:bold;
+	background-color:black;
+}
+.textBox{
+	width:500px;
+	padding:5px;
+	font-size:20px;
+	border-radius:10px;
+}
+.checkBox{
+	width:300px;
+	padding:5px;
+	font-size:20px;
+	border-radius:10px;
+}
+textarea{
+	width:500px;
+	height:200px;
+	font-size:17px;
+	border-radius:10px;
+	resize:none;
+}
+input[type=checkbox]{
+	width:25px;
+	height:25px;
+}
+div.bigBox{
+	margin:20px;
+	padding:20px;
+	background-color:#E3E3E3;
+}
+#btn{
+	padding:10px;
+	margin:10px;
+	background-color:#A3A3A3;
+	color:black;
+}
+#btn:hover{
+	background-color:#CCCCCC;
+}
+#er{
+	color:red;
+}
+#gd{
+	color:green;
+}
+#smlTxtArea{
+	width:500px;
+	height:60px;
+}
+i.midi {font-size: 2em; color: black}
+i.mini {font-size: 1.2em; color: white}
+i.large {font-size: 6em; color: white}
